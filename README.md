@@ -37,6 +37,7 @@
 * [Python v3.9](https://www.python.org/)
 * [Selenium v4.7.2](https://selenium-python.readthedocs.io/)
 * [PyTest v7.2.0](https://docs.pytest.org/)
+* [ChromeDriver 108.0.5359.71](https://chromedriver.chromium.org/downloads)
 
 
 ## :floppy_disk: Setup
