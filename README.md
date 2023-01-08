@@ -17,7 +17,7 @@
   * [:signal_strength: Technologies](#signal_strength-technologies)
   * [:floppy_disk: Setup](#floppy_disk-setup)
   * [:computer: Code Examples](#computer-code-examples)
-  * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
+  * [:clipboard: ToDo](#clipboard-todo)
   * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
@@ -44,6 +44,8 @@
   * create a virtual env with Poetry: `poetry init`
   * access the newly created virtual env: `poetry shell`
 * Install Selenium: `poetry add selenium`
+* Download and install the appropriate [ChromeDriver](https://chromedriver.chromium.org/downloads)
+  * **note**: for Linux the driver shall be placed at: `/usr/local/bin/`
 * Install PyTest: `poetry add pytest` 
 * Run the automated script: `python download_dataset.py`
  
