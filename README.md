@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/sambiase/web_automation?style=plastic)
 
 
-## :page_facing_up: Table of Contents
+## :page_facing_up: Table of Contents   
 
 * [:zap: Web Automation with Selenium & PyTest](#zap-web-automation-with-selenium-and-pyTest)
   * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
