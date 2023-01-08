@@ -1,4 +1,4 @@
-# :zap: Python Django Crypto
+# :zap: Web Automation with Selenium & PyTest
 
 * Web Automation Project using **Selenium** and **Pytest**
 
