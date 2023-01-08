@@ -5,7 +5,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/sambiase/web_automation?style=plastic)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sambiase/web_automation?style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/sambiase/web_automation?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/sambiase/web_automation?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/sambiase/web_automation?style=plastic)  
+
 
 
 ## :page_facing_up: Table of Contents   
